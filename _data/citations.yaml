@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.48550/ARXIV.2410.18307
+  title: 'Quantum Computing Education in Latin America: Experiences and Strategies'
+  authors:
+  - "Laura Tenjo-Pati\xF1o"
+  - Cristian E. Bello
+  - "Alcides Montoya Ca\xF1ola"
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g9rsbf
+  orcid: 0000-0002-3991-4008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/ARXIV.2409.00059
+  title: Quantum Ecosystem Research and Analysis in Colombia
+  authors:
+  - Cristian E. Bello
+  - Benjamin Harper
+  - Camilo A. Castro
+  - Alcides Montoya C
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g9rsbg
+  orcid: 0000-0002-3991-4008
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
