@@ -1,6 +1,6 @@
 ---
 name: Alejandro Cadavid
 image: images/members/ALEJANDRO GOMEZ CADAVID.webp
-role: Researcher
+role: investigator
 group: researchers
 ---
