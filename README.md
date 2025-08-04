@@ -5,6 +5,6 @@
 
   # Test Website Website
 
-  Visit **[https://quanta-research-group.github.io/](https://quanta-research-group.github.io/)** 🚀
+  Visit **[riadfrancoq.github.io/quanta-research-group.github.io](https://riadfrancoq.github.io/quanta-research-group.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

@@ -1,6 +1,6 @@
 ---
 name: Laura Tenjo
-image: images/members/Laura Tenjo Patino.jpeg
-role: undergrad
-group: alum
+image: images/members/Laura Tenjo Patino.webp
+role: investigator
+group: researchers
 --- 

@@ -13,6 +13,9 @@ Our group is made up of a team of highly committed and collaborative researchers
 {% include list.html data="members" component="portrait" filter="name == 'Alcides Montoya'" %}
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
+# Investigators
+{% include list.html data="members" component="portrait" filter="role == 'investigator'" style="small" %}
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 We work with a wide range of leading groups around the world, and are always on the lookout for new and unique perspectives. We want to push the frontiers of quantum computing and train the next generation of scientists.
