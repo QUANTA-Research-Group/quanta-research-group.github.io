@@ -1,6 +1,6 @@
 ---
 name: Miguel Alzate
-image: images/members/Miguel Alzate Betancur.jpg
-role: undergrad
-group: alum
+image: images/members/Miguel Alzate Betancur.webp
+role: investigator
+group: researchers
 --- 

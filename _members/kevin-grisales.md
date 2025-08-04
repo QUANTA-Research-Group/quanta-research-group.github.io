@@ -1,6 +1,6 @@
 ---
 name: Kevin Grisales
-image: images/members/Kevin Rodriguez.jpeg
+image: images/members/Kevin Rodriguez.webp
 role: undergrad
 group: alum
 --- 

@@ -1,6 +1,6 @@
 ---
 name: Gabriel Robayo
-image: images/members/Gabriel David Robayo Mora.jpg
+image: images/members/Gabriel David Robayo Mora.webp
 role: undergrad
 group: alum
 --- 
