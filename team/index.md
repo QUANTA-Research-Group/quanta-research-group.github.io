@@ -14,7 +14,7 @@ Our group is made up of a team of highly committed and collaborative researchers
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 # Investigators
-{% include list.html data="members" component="portrait" filter="role == 'researcher'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'investigator'" style="small" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
